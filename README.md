@@ -1,0 +1,2 @@
+#  Online Airline Ticket Booking System (Pakistan)
+ This project simulates an online airline ticket booking system specifically for flights within Pakistan. It provides a user-friendly interface to collect passenger information, calculate ticket prices, and display booking details.  The system uses simple logic and clear code structure to help beginners understand fundamental C++ concepts like input/output handling, arithmetic calculations, and string processing.
